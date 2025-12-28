@@ -30,11 +30,11 @@ I am a 2025 Bachelor of Engineering graduate from SVIT, Vasad, with 7–8 months
 
 ### portfolio
 
-**Technologies Used:** html , css ,js, python , sql , excel ,power bi , dax , microsoft fabric
+**Technologies Used:** html , css ,js
 
-### sales analysis
+### sales analysis : python , sql , excel ,power bi , dax , microsoft fabric
 
-### Business Performance Analysis
+### Business Performance Analysis : python , sql , excel ,power bi , dax , microsoft fabric
 
 ## 🎓 Education
 
