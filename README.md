@@ -43,11 +43,6 @@ I am a 2025 Bachelor of Engineering graduate from SVIT, Vasad, with approx one y
 | SVIT, Vasad — Gujarat | Bachelor Of Engineering | 2021-09 - 2025-05 |
 | Parth School of Science, Vadodara | Higher Secondary | 2025-03 - 2025-07 |
 
-### Bachelor Of Engineering in Information Technology
-*SVIT, Vasad — Gujarat*
-
-### Higher Secondary in 11th and 12th
-*Parth School of Science, Vadodara*
 
 ## 💼 Internships
 
