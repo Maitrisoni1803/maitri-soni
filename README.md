@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a 2025 Bachelor of Engineering graduate from SVIT, Vasad, with 7–8 months of internship experience and strong hands-on skills across software development, SQL, Python, Excel, and Microsoft Data Analytics. I have contributed to multiple projects, improving data accuracy, workflow efficiency, and overall system performance through practical, results-driven solutions.
+I am a 2025 Bachelor of Engineering graduate from SVIT, Vasad, with approx one year of internship and job experience and strong hands-on skills across software development, SQL, Python, Excel, and Microsoft Data Analytics. I have contributed to multiple projects, improving data accuracy, workflow efficiency, and overall system performance through practical, results-driven solutions.
 
 ## 📚 Learning & Knowledge
 
