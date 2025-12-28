@@ -14,7 +14,7 @@ I am a 2025 Bachelor of Engineering graduate from SVIT, Vasad, with 7–8 months
 
 <div align="left">
 
-- 🌱 I'm currently learning I'm currently enhancing my skills in databases, SQL, and Python, while also exploring cloud computing with Azure. In addition, I'm learning automation and workflow tools like n8n and LangChain, data visualization and analytics using Power BI and Tableau, and database management and integration using SSMS and SSIS. Excited to apply these skills in real-world projects and continue growing in the data and automation space.
+- 🌱 I'm currently learning **I'm currently enhancing my skills in databases, SQL, and Python, while also exploring cloud computing with Azure. In addition, I'm learning automation and workflow tools like n8n and LangChain, data visualization and analytics using Power BI and Tableau, and database management and integration using SSMS and SSIS. Excited to apply these skills in real-world projects and continue growing in the data and automation space.**
 
 </div>
 
@@ -24,9 +24,15 @@ I am a 2025 Bachelor of Engineering graduate from SVIT, Vasad, with 7–8 months
 |---|---|---|
 | portfolio | A modern, responsive portfolio website showcasing my skills, experience, education, and projects. Built with pure HTML, CSS, and JavaScript. | [Live](https://maitrisoni1803.github.io/portfolio/) / [GitHub](https://github.com/Maitrisoni1803/portfolio) |
 | sales analysis | This project is an interactive Sales Analysis Dashboard developed using Power BI, supported by Excel (2020–2023 sales data) and Python for data analysis and visualization. The dashboard is designed as one unified report with multiple pages, all focused on analyzing sales performance and related operational insights. The goal of this project is to transform raw sales data into clear, actionable insights that help understand business performance, trends, and areas for improvement. | [Live](https://app.fabric.microsoft.com/groups/me/reports/bf984727-a8bf-4b22-ad39-1074fb4b090e?experience=fabric-developer) / [GitHub](https://github.com/Maitrisoni1803/sales-2022-23-dashboard) |
-| Business Performance  |  | [Live](https://app.fabric.microsoft.com/groups/cb93d1ec-de42-4674-a267-9577f6d6107c/reports/5e25cbb8-6f07-40d6-b946-49385aecd384/3ef6d9a5036f72494207?experience=fabric-developer) / [GitHub](https://github.com/Maitrisoni1803/sales-analysis-.git) |
+| Business Performance Analysis | Data Includes: Invoice and sales transaction details Salesperson and customer information OEM and product type data Location and territory details Stock and purchase values Sales order and payment status Customer receivables and overdue information This single dataset supports Sales, Stock, Sales Order Status, and Customer Receivables dashboards. | [Live](https://app.fabric.microsoft.com/groups/cb93d1ec-de42-4674-a267-9577f6d6107c/reports/5e25cbb8-6f07-40d6-b946-49385aecd384/3ef6d9a5036f72494207?experience=fabric-developer) / [GitHub](https://github.com/Maitrisoni1803/Business-performance-analysis.git) |
 
+### portfolio
 
+**Technologies Used:** html , css ,js, python , sql , excel ,power bi , dax , microsoft fabric
+
+### sales analysis
+
+### Business Performance Analysis
 
 ## 🎓 Education
 
@@ -45,7 +51,7 @@ I am a 2025 Bachelor of Engineering graduate from SVIT, Vasad, with 7–8 months
 
 | Company | Position | Duration |
 |---|---|---|
-| TactTree LLP | Data Analyst – Research & Operations | 2025-06 - present
+| TactTree LLP | Data Analyst – Research & Operations | 2025-06 -  |
 | ITCG Solution Pvt. Ltd. | Data Analyst Intern | 2025-01 - 2025-04 |
 
 ### Data Analyst – Research & Operations at TactTree LLP
