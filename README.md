@@ -29,7 +29,7 @@ I am a 2025 Bachelor of Engineering graduate from SVIT, Vasad, with 7–8 months
 
 
 **Technologies Used **:
-### portfolio :** html , css ,js
+### portfolio : html , css ,js
 
 ### sales analysis:  python , sql , excel ,power bi , dax , microsoft fabric
 
@@ -52,7 +52,7 @@ I am a 2025 Bachelor of Engineering graduate from SVIT, Vasad, with 7–8 months
 
 | Company | Position | Duration |
 |---|---|---|
-| TactTree LLP | Data Analyst – Research & Operations | 2025-06 -  |
+| TactTree LLP | Data Analyst – Research & Operations | 2025-06 - present  |
 | ITCG Solution Pvt. Ltd. | Data Analyst Intern | 2025-01 - 2025-04 |
 
 ### Data Analyst – Research & Operations at TactTree LLP
